@@ -326,7 +326,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>y9n4168VlcVLkH7GG/FK0eItHb+khcbhCGPjtSvlOgw=</dsig:DigestValue>
+        <dsig:DigestValue>smbil6UhazeRbU29emD7B9WDYQGACgQC8eZqO0jy1+8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -338,7 +338,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6bv880EBJaOc240HRL+Oj/NvaRNkaECVTUEvWOp33c4=</dsig:DigestValue>
+        <dsig:DigestValue>q4Yhokpy8m72y00FhXIBdMhe7pX0nZ0RY68Zk7TLzIM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -483,13 +483,13 @@
       <dsig:DigestValue>ORgdOHc7m4X5xkudB35Qrx87PRF2XjbOL3dulWEIhlo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="OptiFly.exe.config" size="3144">
+  <file name="OptiFly.exe.config" size="3091">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ssea6ZIK8F5ueC8CA3oFaQMPOEbIdT+7/Y1hg0ZiXqA=</dsig:DigestValue>
+      <dsig:DigestValue>+LCQhfxV/p8hcXfPsj6fXtxjK3AmlmNPa29p08zosD4=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
