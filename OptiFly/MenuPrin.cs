@@ -33,11 +33,5 @@ namespace OptiFly
             Pedido obj = new Pedido();
             obj.ShowDialog();
         }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            Usuarios obj = new Usuarios();
-            obj.ShowDialog();
-        }
     }
 }
