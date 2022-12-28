@@ -1,0 +1,356 @@
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.pdb
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.exe.config
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.exe
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Google.Protobuf.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\MySql.Data.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Renci.SshNet.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Buffers.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Collections.Immutable.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Memory.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Zstandard.Net.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Google.Protobuf.pdb
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Google.Protobuf.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\MySql.Data.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\Renci.SshNet.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Buffers.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Collections.Immutable.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Memory.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.AssemblyReference.cache
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.Form1.resources
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.Properties.Resources.resources
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.GenerateResource.cache
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.CoreCompileInputs.cache
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.CopyComplete
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.exe
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.pdb
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.Usuarios.resources
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.FormClientes.resources
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.Pedido.resources
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\ko-KP\OptiFly.resources.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.FormClientes.ko-KP.resources
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\ko-KP\OptiFly.resources.dll
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.exe.manifest
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.application
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.exe.manifest
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.application
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.BuscarClie.resources
+C:\Users\chris\Dropbox\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.MenuPrin.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.exe.config
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.exe.manifest
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.application
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.exe
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.pdb
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\ko-KP\OptiFly.resources.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\BouncyCastle.Crypto.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Google.Protobuf.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Hash.xxHash.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\MySql.Data.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Renci.SshNet.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Buffers.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Collections.Immutable.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Memory.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Numerics.Vectors.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Ubiety.Dns.Core.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Zstandard.Net.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Google.Protobuf.pdb
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Google.Protobuf.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Hash.xxHash.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\MySql.Data.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\Renci.SshNet.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Buffers.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Collections.Immutable.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Memory.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Numerics.Vectors.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.AssemblyReference.cache
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.SuggestedBindingRedirects.cache
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.BuscarClie.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.Form1.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.MenuPrin.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.FormClientes.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.Pedido.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.Properties.Resources.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.Usuarios.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.FormClientes.ko-KP.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.GenerateResource.cache
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.CoreCompileInputs.cache
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\ko-KP\OptiFly.resources.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.exe.manifest
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.application
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.CopyComplete
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.exe
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.pdb
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.exe.config
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.exe.manifest
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.application
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.exe
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\OptiFly.pdb
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\ko-KP\OptiFly.resources.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Google.Protobuf.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\MySql.Data.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Renci.SshNet.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Buffers.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Collections.Immutable.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Memory.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Zstandard.Net.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Google.Protobuf.pdb
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Google.Protobuf.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\MySql.Data.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\Renci.SshNet.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Buffers.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Collections.Immutable.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Memory.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.BuscarClie.resources
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.MenuPrin.resources
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.FormClientes.resources
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.Pedido.resources
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.Usuarios.resources
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.FormClientes.ko-KP.resources
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\ko-KP\OptiFly.resources.dll
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.exe.manifest
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.application
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.CopyComplete
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.exe
+C:\Users\chris\OneDrive\Escritorio\OptiFly\OptiFly\OptiFly\obj\Debug\OptiFly.pdb
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\OptiFly.exe.config
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\OptiFly.exe.manifest
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\OptiFly.application
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\OptiFly.exe
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\OptiFly.pdb
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\ko-KP\OptiFly.resources.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\BouncyCastle.Crypto.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Google.Protobuf.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\K4os.Hash.xxHash.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\MySql.Data.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Renci.SshNet.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Buffers.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Collections.Immutable.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Memory.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Numerics.Vectors.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Ubiety.Dns.Core.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Zstandard.Net.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Google.Protobuf.pdb
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Google.Protobuf.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\K4os.Hash.xxHash.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\MySql.Data.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\Renci.SshNet.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Buffers.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Collections.Immutable.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Memory.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Numerics.Vectors.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.AssemblyReference.cache
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.SuggestedBindingRedirects.cache
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.BuscarClie.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.Form1.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.MenuPrin.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.FormClientes.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.Pedido.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.Properties.Resources.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.Usuarios.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.FormClientes.ko-KP.resources
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.GenerateResource.cache
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.CoreCompileInputs.cache
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\ko-KP\OptiFly.resources.dll
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.exe.manifest
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.application
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.csproj.CopyComplete
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.exe
+C:\Asus WebStorage\christian.al.lo.sa@gmail.com\MySyncFolder\OptiFly\OptiFly\obj\Debug\OptiFly.pdb
