@@ -3,6 +3,7 @@ using System.Windows.Forms;
 
 namespace OptiFly
 {
+    //hola
     public partial class MenuPrin : Form
     {
         public MenuPrin(Form1.datos Nombre, Form1.datos2 tipo)
@@ -30,6 +31,12 @@ namespace OptiFly
         private void button3_Click(object sender, EventArgs e)
         {
             Pedido obj = new Pedido();
+            obj.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Usuarios obj = new Usuarios();
             obj.ShowDialog();
         }
     }

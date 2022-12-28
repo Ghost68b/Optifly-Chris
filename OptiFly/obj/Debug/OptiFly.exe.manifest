@@ -319,14 +319,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OptiFly.exe" size="675808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OptiFly.exe" size="679904">
       <assemblyIdentity name="OptiFly" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+zVqt+Ys75lkEUZPXg99s3MsQzmv0/Oz2nYy/FTS5O0=</dsig:DigestValue>
+        <dsig:DigestValue>DonwFpUgX24JXJ+1j3FvJkWKHoSEc4PovWVe9ZrZTuI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -338,7 +338,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mfXWDd6sqODWQREAcWvPDToyOD52exsKV2JL11ueXJs=</dsig:DigestValue>
+        <dsig:DigestValue>lBjG3gfN1gfQV7j4fgtSNQUbiU7DW9X4xVbv+1y5Bb4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
